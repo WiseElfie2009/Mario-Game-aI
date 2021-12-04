@@ -1,0 +1,22 @@
+.instruc{
+    float:right;
+}
+
+.heading{
+    height: 70px;
+    width:100%;
+    text-align:left;
+}
+
+.heading h2{
+    margin-bottom: 25px;
+    display:inline;
+}
+
+.heading button{
+    margin-bottom: 50px;
+}
+
+.close-popup{
+    display:inline;
+}
